@@ -1,0 +1,1 @@
+INSERT INTO `loadout` (`name`, `primary_weapon`, `secondary_weapon`, `lethal`, `tactical`, `perk1`, `perk2`, `perk3`) VALUES ('test', 'test primary weapon', 'test secondary weapon', 'test lethal', 'test tactical', 'test perk1', 'test perk2', 'test perk3');
